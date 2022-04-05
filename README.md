@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lmv7296
 - 👀 I’m interested in Software defelopment and creating fun and good working programs
-- 🌱 I’m currently learning android app dev and python
+- 🌱 I’m currently learning React js 
 - 💞️ I’m always looking for good upertunitie
 - 📫 How to reach me lmv7296@gmail.com
 
